@@ -60,7 +60,7 @@ Sample Visa card
 
 ```groovy
 	dependencies {
-	        implementation 'com.github.malfahad:paycard:Tag'
+	        implementation 'com.github.malfahad:paycard:2f00f8a587'
 	}
 
 ```
