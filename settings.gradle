@@ -1,1 +1,1 @@
-include ':app', ':paycardui'
+include ':sample', ':paycardui'
