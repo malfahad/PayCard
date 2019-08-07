@@ -7,6 +7,9 @@ Sample Visa card
 
 <img src="screenshots/cardImage.png" alt="payment card" width="300"/>
 
+Supports different card themes
+
+
 ## How to use it
 
 1. Add a PayCard to your layout file
@@ -41,6 +44,23 @@ Sample Visa card
 ```
 
 Supported card types are `PayCardType.VISA` and `PayCardType.MASTERCARD`. Setting this will update the logo on the payment card.
+
+To change a card theme use:
+
+```java
+        payCard.updateCardTheme(PaycardTheme.ARGON);
+```
+
+Four card themes are included:
+
+[]() | []() 
+--- | --- 
+Argon <br>  <img src="screenshots/argon.png" alt="payment card" width="250"/>  | Nelson <br>   <img src="screenshots/nelson.png" alt="payment card" width="250"/> 
+Flare <br>   <img src="screenshots/flare.png" alt="payment card" width="250"/>  | Witching hour  <br>  <img src="screenshots/witching_hour.png" alt="payment card" width="250"/>
+
+
+
+
 
 ## Adding the dependency
 
