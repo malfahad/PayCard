@@ -2,8 +2,8 @@
 <android.support.constraint.ConstraintLayout
     android:background="@drawable/card_bg"
     android:padding="5dp"
-    android:maxHeight="250dp"
-    android:maxWidth="400dp"
+    android:minHeight="200dp"
+    android:minWidth="320dp"
     android:layout_gravity="center"
     xmlns:android="http://schemas.android.com/apk/res/android"
     android:layout_width="match_parent"
