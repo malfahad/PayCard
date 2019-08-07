@@ -31,7 +31,7 @@ Sample Visa card
                 .setCardName("PayCard")
                 .setCardHolderName("John Franklin Doe")
                 .setCardExpiry(11,22)
-                .setCardType(PayCardType.MASTERCARD)
+                .setCardType(PayCardType.VISA)
                 .setCardNumber("1234 5678 9012 3456")
                 .create();
 
@@ -40,6 +40,7 @@ Sample Visa card
 
 ```
 
+Supported card types are `PayCardType.VISA` and `PayCardType.MASTERCARD`. Setting this will update the logo on the payment card.
 
 ## Adding the dependency
 
