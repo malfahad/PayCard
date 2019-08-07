@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">PaycardUI</string>
+    <string name="card_type_logo">Card type logo</string>
+    <string name="card_number">1234 5678 1234 5678</string>
+    <string name="card_holder_name">John Doe</string>
+    <string name="card_expiry">12/22</string>
+</resources>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="PayCard">
+        <attr name="cardType" >
+            <enum name="VISA" value="10"/>
+            <enum name="MASTERCARD" value="20"/>
+        </attr>
+    </declare-styleable>
+</resources>
