@@ -81,7 +81,7 @@ Flare <br>   <img src="screenshots/flare.png" alt="payment card" width="250"/>  
 
 ```groovy
 	dependencies {
-	        implementation 'com.github.malfahad:paycard:2f00f8a587'
+	        implementation 'com.github.malfahad:paycard:6ce07da057'
 	}
 
 ```
