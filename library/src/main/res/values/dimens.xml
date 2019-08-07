@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="card_chip_margin">15dp</dimen>
+    <dimen name="card_chip_size">50dp</dimen>
+    <dimen name="card_margin">15dp</dimen>
+    <dimen name="card_margin_small">10dp</dimen>
+</resources>
